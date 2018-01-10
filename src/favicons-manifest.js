@@ -1,5 +1,5 @@
 import loaderUtils from 'loader-utils';
-import favicons from './favicons';
+import favicons from 'favicons';
 import {
   loadIconsFromDiskCache,
   emitCacheInformationFile

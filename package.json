@@ -7,7 +7,7 @@
   "author": "Mauro Junior",
   "license": "MIT",
   "dependencies": {
-    "favicons": "^4.8.6",
+    "favicons": "git+ssh://git@github.com:sattrack/favicons.git",
     "loader-utils": "^1.1.0"
   },
   "keywords": [],

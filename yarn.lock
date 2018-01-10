@@ -2118,9 +2118,9 @@ fast-levenshtein@~2.0.4:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
 
-favicons@^4.8.6:
+"favicons@git+ssh://git@github.com:sattrack/favicons.git":
   version "4.8.6"
-  resolved "https://registry.yarnpkg.com/favicons/-/favicons-4.8.6.tgz#a2b13800ab3fec2715bc8f27fa841d038d4761e2"
+  resolved "git+ssh://git@github.com:sattrack/favicons.git#533943746cdcf953797c1ad8bef928fa505c8b91"
   dependencies:
     async "^1.5.0"
     cheerio "^0.19.0"
